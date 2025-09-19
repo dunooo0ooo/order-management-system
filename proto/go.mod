@@ -1,4 +1,4 @@
-module github.com/dunooo0ooo/proto
+module github.com/dunooo0ooo/order-management-system/proto
 
 go 1.24.0
 
